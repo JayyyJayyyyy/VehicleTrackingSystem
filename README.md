@@ -1,0 +1,1 @@
+Belediye otobüslerine araç takip sistemi kurulumu yapılması ve otobüs duraklarında beklediğiniz aracın nerede olduğunu gösteren ekranların kurulması senaryosu üzerine oluşturulan projenin basamaklandırılması, uygulanma adımlerı, ücretlendirilmesi ve MSProject ile proje yönetiminin sağlanması
